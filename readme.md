@@ -24,7 +24,6 @@ Initialize cluster-airbrake with your Airbrake API key.  Currently, it will only
 
 ## Credits
   * Node Airbrake notifier: Felixge's node-airbrake (https://github.com/felixge/node-airbrake)
-  * Worker management inside exception handling: 3rd-eden's cluster.exception (https://github.com/3rd-eden/cluster.exception)
     
 ## License
 Copyright (c) 2011 Jason Barry <jay@jcbarry.com>
