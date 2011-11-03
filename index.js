@@ -1,1 +1,1 @@
-module.exports = require('./lib/cluster.airbrake');
+module.exports = require('./lib/cluster-airbrake');
