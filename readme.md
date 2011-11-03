@@ -5,7 +5,7 @@ Exception notification through the Airbrake service. (http://airbrakeapp.com)
     $ npm install cluster-airbrake
 
 ## Usage
-Initialize cluster-airbrake with your Airbrake API key.
+Initialize cluster-airbrake with your Airbrake API key.  Currently, it will only capture `uncaughtExceptions`.
 
 ## Example
 
