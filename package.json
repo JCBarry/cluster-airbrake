@@ -1,6 +1,6 @@
 {
     "name": "cluster-airbrake"
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "description": "Airbrake exception notification for cluster.js"
   , "keywords": ["cluster", "airbrake", "exception", "error"]
   , "author": "Jason Barry <jay@jcbarry.com>"
