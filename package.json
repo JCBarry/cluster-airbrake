@@ -1,18 +1,16 @@
 {
-    "name": "cluster-airbrake"
-  , "version": "0.0.2"
-  , "description": "Airbrake exception notification for cluster.js"
-  , "keywords": ["cluster", "airbrake", "exception", "error"]
-  , "author": "Jason Barry <jay@jcbarry.com>"
-  , "dependencies": {
-      "airbrake": "0.2.x"
-  }
-  , "devDependencies": {
-      "cluster": ""
-  }
-  , "main": "index"
-  , "respository": {
-      "type": "git"
-    , "url": "https://JCBarry@github.com/JCBarry/cluster-airbrake.git"
+  "name": "cluster-airbrake",
+  "description": "Airbrake exception notification for cluster.js",
+  "keywords": ["cluster", "airbrake", "exception", "error"],
+  "version": "0.0.2",
+  "homepage": "https://github.com/JCBarry/cluster-airbrake",
+  "repository": "git://github.com/JCBarry/cluster-airbrake.git",
+  "author": "Jason Barry <jay@jcbarry.com> (http://jcbarry.com)",
+  "main": "index",
+  "dependencies": {
+    "airbrake": "0.2.x"
+  },
+  "devDependencies": {
+    "cluster": ""
   }
 }
