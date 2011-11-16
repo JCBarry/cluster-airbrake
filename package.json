@@ -2,7 +2,7 @@
   "name": "cluster-airbrake",
   "description": "Airbrake exception notification for cluster.js",
   "keywords": ["cluster", "airbrake", "exception", "error"],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/JCBarry/cluster-airbrake",
   "repository": "git://github.com/JCBarry/cluster-airbrake.git",
   "author": "Jason Barry <jay@jcbarry.com> (http://jcbarry.com)",
